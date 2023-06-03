@@ -1,2 +1,2 @@
 # CRUD Toko-Bangunan
- Tugas Rancang CRUD Toko banyunana menggunakan Bahasa C
+ Tugas Rancang CRUD Toko bangunan menggunakan Bahasa C
